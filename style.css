@@ -1,0 +1,54 @@
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+
+/* Exercise2.html begins */
+.box1,
+.box5,
+.box9{
+    width: 500px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.box2, 
+.box3,
+.box4, 
+.box6,
+.box7,
+.box8{
+    width: 200px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.box1{
+    background-color: rgb(253, 91, 105);
+}
+.box2{
+    background-color: rgb(68, 169, 68);
+}
+.box3{
+    background-color: violet;
+}
+.box4{
+    background-color: rgb(2, 72, 100);
+}
+.box5{
+    background-color: rgb(213, 238, 144);
+}
+.box6{
+    background-color: rgb(161, 182, 244);
+}
+.box7{
+    background-color: rgb(159, 15, 121);
+}
+.box8{
+    background-color: rgb(194, 164, 42);
+}
+.box9{
+    background-color: rgb(172, 241, 168);
+}

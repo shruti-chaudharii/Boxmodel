@@ -1,0 +1,39 @@
+.box {
+    width: 150px;
+    height: 100px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #cc2f2f;
+    background-color: rgb(26, 72, 197);
+  }
+
+  .box1 {
+    float: left;
+  }
+
+  .box2 {
+    float: left;
+    clear: both;
+    margin-top: 20px;
+  }
+
+  .box3 {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    border:dashed;
+  }
+
+  .box4 {
+    float: left;
+    clear: both;
+    margin-top: 20px;
+    border:dotted;
+  }
+
+  .box5 {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    border:none;
+  }
